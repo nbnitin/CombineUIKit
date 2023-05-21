@@ -119,6 +119,26 @@
                                             <segue destination="bti-2D-mJ6" kind="show" id="f84-Yg-bbE"/>
                                         </connections>
                                     </tableViewCell>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" textLabel="qXj-ON-1xj" style="IBUITableViewCellStyleDefault" id="9s1-1z-UFF">
+                                        <rect key="frame" x="0.0" y="268.33333969116211" width="393" height="43.666667938232422"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="9s1-1z-UFF" id="Sio-AZ-aDe">
+                                            <rect key="frame" x="0.0" y="0.0" width="393" height="43.666667938232422"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Common Mistake While Using Publisher" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="qXj-ON-1xj">
+                                                    <rect key="frame" x="20" y="0.0" width="353" height="43.666667938232422"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="0.0"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                        <connections>
+                                            <segue destination="AP3-Cp-gry" kind="show" id="FCG-jI-s9Q"/>
+                                        </connections>
+                                    </tableViewCell>
                                 </cells>
                             </tableViewSection>
                         </sections>
@@ -132,6 +152,63 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zQX-Vy-5Vr" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-4669" y="1744"/>
+        </scene>
+        <!--Common Mistake While Using Publisher View Controller-->
+        <scene sceneID="3lH-OI-gUN">
+            <objects>
+                <viewController id="AP3-Cp-gry" customClass="CommonMistakeWhileUsingPublisherViewController" customModule="CombineFrameworkDemo" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="WNc-9T-Hzg">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="52V-XD-Oxu">
+                                <rect key="frame" x="158.33333333333334" y="123" width="76.333333333333343" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Reload"/>
+                                <connections>
+                                    <action selector="btnReloadAction:" destination="AP3-Cp-gry" eventType="touchUpInside" id="qRr-aG-rOg"/>
+                                </connections>
+                            </button>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="MCR-AP-yDc">
+                                <rect key="frame" x="30" y="177.99999999999997" width="333" height="511.33333333333326"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="cell" id="tU2-1s-7Ea">
+                                        <rect key="frame" x="0.0" y="50" width="333" height="43.666667938232422"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="tU2-1s-7Ea" id="mF9-eA-8Ln">
+                                            <rect key="frame" x="0.0" y="0.0" width="333" height="43.666667938232422"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                </prototypes>
+                                <connections>
+                                    <outlet property="dataSource" destination="AP3-Cp-gry" id="LIJ-pw-KQn"/>
+                                    <outlet property="delegate" destination="AP3-Cp-gry" id="231-Vi-NKn"/>
+                                </connections>
+                            </tableView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="wqb-az-cQ9"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="52V-XD-Oxu" firstAttribute="top" secondItem="wqb-az-cQ9" secondAttribute="top" constant="20" id="7XE-Wm-9eF"/>
+                            <constraint firstItem="MCR-AP-yDc" firstAttribute="top" secondItem="52V-XD-Oxu" secondAttribute="bottom" constant="20" id="CIA-Ux-yZp"/>
+                            <constraint firstItem="wqb-az-cQ9" firstAttribute="trailing" secondItem="MCR-AP-yDc" secondAttribute="trailing" constant="30" id="Mqd-ny-o9N"/>
+                            <constraint firstItem="52V-XD-Oxu" firstAttribute="centerX" secondItem="wqb-az-cQ9" secondAttribute="centerX" id="UfX-Uy-g0i"/>
+                            <constraint firstItem="MCR-AP-yDc" firstAttribute="height" secondItem="WNc-9T-Hzg" secondAttribute="height" multiplier="0.6" id="ec7-u6-gyu"/>
+                            <constraint firstItem="MCR-AP-yDc" firstAttribute="leading" secondItem="wqb-az-cQ9" secondAttribute="leading" constant="30" id="jg6-Jh-ao7"/>
+                            <constraint firstItem="MCR-AP-yDc" firstAttribute="centerX" secondItem="wqb-az-cQ9" secondAttribute="centerX" id="yr1-sK-UgN"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="axm-5b-hNu"/>
+                    <connections>
+                        <outlet property="btnReload" destination="52V-XD-Oxu" id="TXC-jJ-tbD"/>
+                        <outlet property="tblView" destination="MCR-AP-yDc" id="XTR-sl-f2R"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Dd5-bB-gAf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-4688" y="2495"/>
         </scene>
         <!--Sign Up View Controller-->
         <scene sceneID="hcm-th-hSx">

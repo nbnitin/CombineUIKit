@@ -14,6 +14,7 @@
 		4515706F29E3C84A002B6B25 /* Posts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4515706E29E3C84A002B6B25 /* Posts.swift */; };
 		4515707329E3D2EF002B6B25 /* PostService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4515707229E3D2EF002B6B25 /* PostService.swift */; };
 		4515707729E416ED002B6B25 /* PostDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4515707629E416ED002B6B25 /* PostDetailsViewController.swift */; };
+		451F22112A19ED21000C6A44 /* CommonMistakeWhileUsingPublisherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 451F22102A19ED21000C6A44 /* CommonMistakeWhileUsingPublisherViewController.swift */; };
 		458FC90729DECC2C00BD6E70 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 458FC90629DECC2C00BD6E70 /* AppDelegate.swift */; };
 		458FC90929DECC2C00BD6E70 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 458FC90829DECC2C00BD6E70 /* SceneDelegate.swift */; };
 		458FC90B29DECC2C00BD6E70 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 458FC90A29DECC2C00BD6E70 /* ViewController.swift */; };
@@ -39,6 +40,7 @@
 		4515706E29E3C84A002B6B25 /* Posts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Posts.swift; sourceTree = "<group>"; };
 		4515707229E3D2EF002B6B25 /* PostService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostService.swift; sourceTree = "<group>"; };
 		4515707629E416ED002B6B25 /* PostDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailsViewController.swift; sourceTree = "<group>"; };
+		451F22102A19ED21000C6A44 /* CommonMistakeWhileUsingPublisherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonMistakeWhileUsingPublisherViewController.swift; sourceTree = "<group>"; };
 		458FC90329DECC2C00BD6E70 /* CombineFrameworkDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombineFrameworkDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		458FC90629DECC2C00BD6E70 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		458FC90829DECC2C00BD6E70 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -197,6 +199,14 @@
 			path = PostDetailsViewController;
 			sourceTree = "<group>";
 		};
+		451F220F2A19ED03000C6A44 /* CommonMistakeWhileUsingPublisher */ = {
+			isa = PBXGroup;
+			children = (
+				451F22102A19ED21000C6A44 /* CommonMistakeWhileUsingPublisherViewController.swift */,
+			);
+			path = CommonMistakeWhileUsingPublisher;
+			sourceTree = "<group>";
+		};
 		458FC8FA29DECC2C00BD6E70 = {
 			isa = PBXGroup;
 			children = (
@@ -216,6 +226,7 @@
 		458FC90529DECC2C00BD6E70 /* CombineFrameworkDemo */ = {
 			isa = PBXGroup;
 			children = (
+				451F220F2A19ED03000C6A44 /* CommonMistakeWhileUsingPublisher */,
 				45FD4A1A2A0E2268001D64BE /* Subjects */,
 				45AD0C2629F3CA4B0062269A /* SignUpController */,
 				45AD0C2329F3C9FB0062269A /* ZipOperator */,
@@ -348,6 +359,7 @@
 			files = (
 				4515706A29E3C7BE002B6B25 /* PostViewController.swift in Sources */,
 				45BCA45D29E1C71F00831211 /* SignUpViewController.swift in Sources */,
+				451F22112A19ED21000C6A44 /* CommonMistakeWhileUsingPublisherViewController.swift in Sources */,
 				45AD0C2829F3D66A0062269A /* UserAndPostTableViewCell.swift in Sources */,
 				458FC90B29DECC2C00BD6E70 /* ViewController.swift in Sources */,
 				45AD0C2529F3CA180062269A /* ZipDemoViewController.swift in Sources */,
