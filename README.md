@@ -16,4 +16,5 @@ Several Foundation types expose their functionality through publishers, includin
 
 # Combine Publisher Latest Demo
 
-![Combine Latest Demo](https://github.com/nbnitin/CombineUIKit/assets/5785670/b973fbc5-a68a-41e0-b8ef-147d930d25e5)
+https://github.com/nbnitin/CombineUIKit/assets/5785670/4c70e58b-cf0c-45de-9197-f9569bada01e
+
