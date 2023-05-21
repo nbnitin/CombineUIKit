@@ -1,0 +1,1739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C09C98DF-0199-4F31-96F5-94DAE3510AF1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C7E3973-F806-48F4-9610-14DDD550E730"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C7E3973-F806-48F4-9610-14DDD550E730 - 3b1737299aa12609"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "1C7E3973-F806-48F4-9610-14DDD550E730 - dbf22ae4cc0c8f73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;) -&gt; () in CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "1C7E3973-F806-48F4-9610-14DDD550E730 - 3b1737299aa12609"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "1C7E3973-F806-48F4-9610-14DDD550E730 - 3b1737299aa12609"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "1C7E3973-F806-48F4-9610-14DDD550E730 - 3b1737299aa12609"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "1C7E3973-F806-48F4-9610-14DDD550E730 - 3b1737299aa12609"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "1C7E3973-F806-48F4-9610-14DDD550E730 - 3b1737299aa12628"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "1C7E3973-F806-48F4-9610-14DDD550E730 - 3b1737299aa12628"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A33B020-CCA9-48EF-B6DB-16ED61987283"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "ServiceManager"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1146B2B-D63F-49A9-A051-26697A5E13E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "ServiceManager"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD462580-6941-4818-9A71-1EEC0A13E6CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "ServiceManager"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAC0D647-2DF9-4512-80D4-09B8C94FE932"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "ServiceManager"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1A7AE3B-3C8A-4E2C-A7A3-C0EDA712A20F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "ServiceManager"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93506FCE-BFCE-4896-8E26-CFF4903A34DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "ServiceManager"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDCCC306-87D1-4D9B-8397-4DF43874B92B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "ServiceManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EDCCC306-87D1-4D9B-8397-4DF43874B92B - 5a609d75b4990d7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ServiceManager.getUserData(url: Foundation.URL) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "EDCCC306-87D1-4D9B-8397-4DF43874B92B - 5a609d75b4990d3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ServiceManager.getUserData(url: Foundation.URL) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63813ACD-CC96-44F8-953E-0A60C36D8FE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "ServiceManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "63813ACD-CC96-44F8-953E-0A60C36D8FE4 - 5a609d75b4990d7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ServiceManager.getUserData(url: Foundation.URL) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "63813ACD-CC96-44F8-953E-0A60C36D8FE4 - 5a609d75b4990d5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ServiceManager.getUserData(url: Foundation.URL) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "63813ACD-CC96-44F8-953E-0A60C36D8FE4 - a237f080c0b007eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CombineFrameworkDemo.ServiceManager.getUserData(url: Foundation.URL) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5ADB78F5-6769-4D02-9AFD-707442A7DFC9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "ServiceManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5ADB78F5-6769-4D02-9AFD-707442A7DFC9 - 5a609d75b4990c9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ServiceManager.getUserData(url: Foundation.URL) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "5ADB78F5-6769-4D02-9AFD-707442A7DFC9 - a237f080c0b00629"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CombineFrameworkDemo.ServiceManager.getUserData(url: Foundation.URL) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "5ADB78F5-6769-4D02-9AFD-707442A7DFC9 - a237f080c0b00608"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CombineFrameworkDemo.ServiceManager.getUserData(url: Foundation.URL) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "5ADB78F5-6769-4D02-9AFD-707442A7DFC9 - a237f080c0b00646"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CombineFrameworkDemo.ServiceManager.getUserData(url: Foundation.URL) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11585F3A-3960-45D9-A05D-3B9C7868E928"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11585F3A-3960-45D9-A05D-3B9C7868E928 - 3b1737299aa1207b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "11585F3A-3960-45D9-A05D-3B9C7868E928 - 3b1737299aa12039"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "11585F3A-3960-45D9-A05D-3B9C7868E928 - 3b1737299aa13d02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+               <Location
+                  uuid = "11585F3A-3960-45D9-A05D-3B9C7868E928 - 3b1737299aa13c5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "635E6957-5F09-4E9B-AF88-80CA5BBC63F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/SignUpViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "x"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "635E6957-5F09-4E9B-AF88-80CA5BBC63F0 - 4e2aec584c8d6f89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.SignUpViewController.x.didset : Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "635E6957-5F09-4E9B-AF88-80CA5BBC63F0 - 4e2aec584c8d6f89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.SignUpViewController.x.didset : Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "635E6957-5F09-4E9B-AF88-80CA5BBC63F0 - 4e2aec584c8d6f89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.SignUpViewController.x.didset : Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "635E6957-5F09-4E9B-AF88-80CA5BBC63F0 - 7fec6f6bd3f121de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.SignUpViewController.x.didset : Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CB99A8E-BFC9-426B-B7D1-CE23437C3C4E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "callApi(url:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4CB99A8E-BFC9-426B-B7D1-CE23437C3C4E - be567d711174a488"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CombineFrameworkDemo.ServiceManager.callApi&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, for: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "4CB99A8E-BFC9-426B-B7D1-CE23437C3C4E - be567d711174a488"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CombineFrameworkDemo.ServiceManager.callApi&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, for: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "897CFD53-E3E2-4B13-8A45-EE89818C7C00"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "callApi(url:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "542FC24E-DE32-49D7-95AE-B54A9A434727"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "212E11DA-7FBC-47FD-A360-F57B150DE305"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/Service Manager/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "callApi(url:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "212E11DA-7FBC-47FD-A360-F57B150DE305 - d0e55d59c5ee0b13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ServiceManager.callApi&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, for: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/Service%20Manager/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "212E11DA-7FBC-47FD-A360-F57B150DE305 - a997180888341ec2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CombineFrameworkDemo.ServiceManager.callApi&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, for: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/Service%20Manager/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E9ABCFE-F07F-4635-9406-2550A423B11D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/Service Manager/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "callApi(url:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E9ABCFE-F07F-4635-9406-2550A423B11D - a997180888341e9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CombineFrameworkDemo.ServiceManager.callApi&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, for: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/Service%20Manager/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "8E9ABCFE-F07F-4635-9406-2550A423B11D - a997180888341e9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CombineFrameworkDemo.ServiceManager.callApi&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, for: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/Service%20Manager/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96AD26F5-0795-48F1-911C-79FC29E5921A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/Service Manager/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "callApi(url:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87B38D24-6D55-467B-8E39-8C57F725C69B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42213558-127F-418C-82E1-9764C85489B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7BDAEB0-3759-4B59-890D-CA81C1B99837"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/UserViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DBE481B-E7CA-440F-9E27-12F158A965DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/UserViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C5941E3-D81E-47DF-AD41-65E9A04AC264"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/Service Manager/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "callApi(url:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF720F7E-620A-493C-8A18-F6052D8DEFEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7615585-DD7A-4C22-8015-192AF38811D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE817519-9CFE-49D1-8552-E088BA3CE376"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "getPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6EE3A45-5894-477A-AB55-9EDDBD97829B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostDetailsViewController/PostDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9988B8C2-6426-4A57-A506-70AC8C18EE43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostDetailsViewController/PostDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC55AA82-5115-4177-824F-682058829481"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/Service Manager/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "callApiUsingFuture(url:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC55AA82-5115-4177-824F-682058829481 - 22dc93c795298b2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; () in CombineFrameworkDemo.ServiceManager.callApiUsingFuture&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, for: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/Service%20Manager/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1240">
+               </Location>
+               <Location
+                  uuid = "EC55AA82-5115-4177-824F-682058829481 - e22af00cf075d1ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in closure #1 ((Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; () in CombineFrameworkDemo.ServiceManager.callApiUsingFuture&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, for: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/Service%20Manager/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5E65740-DEEF-471C-AFFC-93F17E5DF11A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/Service Manager/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "callApiUsingFuture(url:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7891F5E1-B908-4696-B8E8-5F5BFAB6C563"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/Service Manager/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "callApiUsingFuture(url:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7891F5E1-B908-4696-B8E8-5F5BFAB6C563 - 9d2471040cbd017a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; () in CombineFrameworkDemo.ServiceManager.callApiUsingFuture&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, for: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/Service%20Manager/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "904">
+               </Location>
+               <Location
+                  uuid = "7891F5E1-B908-4696-B8E8-5F5BFAB6C563 - 420f709c63a8bdfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (&#x3c4;_0_0) -&gt; () in closure #1 ((Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; () in CombineFrameworkDemo.ServiceManager.callApiUsingFuture&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, for: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/Service%20Manager/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8667314B-3DC2-4146-9F88-A33A7D264C28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getPostDetails(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8667314B-3DC2-4146-9F88-A33A7D264C28 - 32a5cccd068cfa1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CombineFrameworkDemo.Posts) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "8667314B-3DC2-4146-9F88-A33A7D264C28 - 32a5cccd068cfa1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CombineFrameworkDemo.Posts) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8667314B-3DC2-4146-9F88-A33A7D264C28 - 32a5cccd068cfa1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CombineFrameworkDemo.Posts) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA85925E-01EF-4B91-8B45-14A2B34D1C47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getPostDetails(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA85925E-01EF-4B91-8B45-14A2B34D1C47 - 7606f66433d409d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "FA85925E-01EF-4B91-8B45-14A2B34D1C47 - 7606f66433d409d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D1AF88F-7624-49D0-A6BE-30567447AAD0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "getPostDetails(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0D1AF88F-7624-49D0-A6BE-30567447AAD0 - 18ad423c5a43b687"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  uuid = "0D1AF88F-7624-49D0-A6BE-30567447AAD0 - 7606f66433d409b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "0D1AF88F-7624-49D0-A6BE-30567447AAD0 - 32a5cccd068cfac2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CombineFrameworkDemo.Posts) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "0D1AF88F-7624-49D0-A6BE-30567447AAD0 - 18ad423c5a43b678"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "952">
+               </Location>
+               <Location
+                  uuid = "0D1AF88F-7624-49D0-A6BE-30567447AAD0 - 7606f66433d4094a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "0D1AF88F-7624-49D0-A6BE-30567447AAD0 - 32a5cccd068cfa3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CombineFrameworkDemo.Posts) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "0D1AF88F-7624-49D0-A6BE-30567447AAD0 - 32a5cccd068cfa1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CombineFrameworkDemo.Posts) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "0D1AF88F-7624-49D0-A6BE-30567447AAD0 - 32a5cccd068cfa1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CombineFrameworkDemo.Posts) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E368D36-A097-4BEF-A028-DFDBA5F2134D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getPostDetails(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E368D36-A097-4BEF-A028-DFDBA5F2134D - 18ad423c5a43b687"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  uuid = "8E368D36-A097-4BEF-A028-DFDBA5F2134D - 7606f66433d409b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "8E368D36-A097-4BEF-A028-DFDBA5F2134D - 32a5cccd068cfac2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CombineFrameworkDemo.Posts) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "8E368D36-A097-4BEF-A028-DFDBA5F2134D - 7606f66433d40994"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in CombineFrameworkDemo.PostDetailsViewModel.getPostDetails(Swift.Int) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewModels/Posts/PostsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1FC47C8-1F89-477B-B5B3-96E3DEE0C8A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "getPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E1FC47C8-1F89-477B-B5B3-96E3DEE0C8A7 - 740ecb0419db4da1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in closure #1 (CombineFrameworkDemo.Posts) -&gt; () in closure #3 (Swift.Array&lt;CombineFrameworkDemo.Posts&gt;) -&gt; () in CombineFrameworkDemo.PostViewController.getPosts() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "E1FC47C8-1F89-477B-B5B3-96E3DEE0C8A7 - 740ecb0419db4da1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in closure #1 (CombineFrameworkDemo.Posts) -&gt; () in closure #3 (Swift.Array&lt;CombineFrameworkDemo.Posts&gt;) -&gt; () in CombineFrameworkDemo.PostViewController.getPosts() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/CombineFrameworkDemo/CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "E1FC47C8-1F89-477B-B5B3-96E3DEE0C8A7 - 958b62778569ad34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Bool) -&gt; () in closure #1 (CombineFrameworkDemo.Posts) -&gt; () in closure #3 (Swift.Array&lt;CombineFrameworkDemo.Posts&gt;) -&gt; () in CombineFrameworkDemo.PostViewController.getPosts() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02F10EE6-A3CF-4A67-8219-E88A42928A6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "621960CB-AEF4-46B7-9D20-F0F9CF2B22F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98C6023D-E4ED-485B-A08E-AB3CE754DFEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ViewControllers/PostViewController/PostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "166E30DA-ADA0-42CA-97CF-63334BB0BA5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ZipOperator/ZipDemoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "166E30DA-ADA0-42CA-97CF-63334BB0BA5B - 83095c0c150a37a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ZipDemoViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/ZipOperator/ZipDemoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "3724">
+               </Location>
+               <Location
+                  uuid = "166E30DA-ADA0-42CA-97CF-63334BB0BA5B - 83095c0c150a3746"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ZipDemoViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/ZipOperator/ZipDemoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "2560">
+               </Location>
+               <Location
+                  uuid = "166E30DA-ADA0-42CA-97CF-63334BB0BA5B - 83095c0c150a37ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.ZipDemoViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/ZipOperator/ZipDemoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2560">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04A3E640-6D11-449F-8066-3558D724BF6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ZipOperator/ZipDemoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getAllData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04A3E640-6D11-449F-8066-3558D724BF6F - 841ec837d73b432b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CombineFrameworkDemo.UserModel) -&gt; CombineFrameworkDemo.UserModel in closure #1 ((Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Array&lt;CombineFrameworkDemo.AlbumModel&gt;)) -&gt; Swift.Optional&lt;Swift.Optional&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;&gt;&gt; in CombineFrameworkDemo.ZipDemoViewController.getAllData() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/ZipOperator/ZipDemoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "04A3E640-6D11-449F-8066-3558D724BF6F - 2bdc160585ffa11f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CombineFrameworkDemo.UserModel) -&gt; CombineFrameworkDemo.UserModel in closure #1 ((Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Array&lt;CombineFrameworkDemo.AlbumModel&gt;)) -&gt; Swift.Optional&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;&gt; in CombineFrameworkDemo.ZipDemoViewController.getAllData() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/ZipOperator/ZipDemoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "04A3E640-6D11-449F-8066-3558D724BF6F - 2bdc160585ffbedd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CombineFrameworkDemo.UserModel) -&gt; CombineFrameworkDemo.UserModel in closure #1 ((Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;, Swift.Array&lt;CombineFrameworkDemo.AlbumModel&gt;)) -&gt; Swift.Optional&lt;Swift.Array&lt;CombineFrameworkDemo.UserModel&gt;&gt; in CombineFrameworkDemo.ZipDemoViewController.getAllData() -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/ZipOperator/ZipDemoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84231E45-B5B4-437A-B4E3-B25CBF7BF3BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/ZipOperator/ZipDemoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "getAllData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD777146-8607-4EB8-A1FA-009D197D8ED1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineFrameworkDemo/Subjects/BottomSheetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "progressBar(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD777146-8607-4EB8-A1FA-009D197D8ED1 - 33daf6627c8e35d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.BottomSheetViewController.progressBar(Any) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/Subjects/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "AD777146-8607-4EB8-A1FA-009D197D8ED1 - 33daf6627c8e35d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.BottomSheetViewController.progressBar(Any) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/Subjects/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "AD777146-8607-4EB8-A1FA-009D197D8ED1 - 33daf6627c8e35d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.BottomSheetViewController.progressBar(Any) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/Subjects/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "AD777146-8607-4EB8-A1FA-009D197D8ED1 - 33daf6627c8e35d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.BottomSheetViewController.progressBar(Any) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/Subjects/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "AD777146-8607-4EB8-A1FA-009D197D8ED1 - 33daf6627c8e35f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.BottomSheetViewController.progressBar(Any) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/Subjects/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "AD777146-8607-4EB8-A1FA-009D197D8ED1 - 33daf6627c8e35f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineFrameworkDemo.BottomSheetViewController.progressBar(Any) -&gt; ()"
+                  moduleName = "CombineFrameworkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Documents/CombineFrameworkDemo/CombineFrameworkDemo/Subjects/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
